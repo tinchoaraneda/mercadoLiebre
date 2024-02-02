@@ -1,3 +1,20 @@
-header{
+header {
+  width: 100%;
   background-color: var(--amarillo);
-  }
+
+}
+header .image{
+  width: 50%;
+  padding-top: 70px;
+  padding-left: 70px;
+}
+header form{
+  width: 100%;
+  padding-top: 20px;
+  padding-left: 70px;
+}
+header form input{
+  width: 30%;
+  padding: 10px;
+  font-size: 16px;
+}
