@@ -1,0 +1,23 @@
+.footer-home {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.footer-home section article {
+  text-align: center;
+  font-size: var(--cuerpo-de-t);
+  font-weight: lighter;
+}
+
+.footer-home section i {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 2em;
+  width: 2em;
+  color: var(--celeste);
+}
+
+.footer-home section p {
+  margin-top: 20px;
+  font-size: var(--cuerpo-de-t);
+}
