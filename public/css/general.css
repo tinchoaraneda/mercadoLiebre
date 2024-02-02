@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0px;
+    font-family: var(--roboto);
+}
+
+li {
+    list-style: none;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+ 

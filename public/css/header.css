@@ -1,27 +1,3 @@
-:root {
-    /*fuentes*/
-      --roboto : 'Roboto', sans-serif;
-      ;
-  
-      /* tamaño tipogragias*/
-      --cuerpo-de-t : 12px ; 
-      --titulares : 24px ;
-      --Precios: 18px ;
-      --Descuentos: 16px;
-      --Descripciones: 16px ;
-  
-      /*colores*/
-      --amarillo : #EAC926;
-      --azul : #03264C;
-      --celeste :  #1259c3;
-       --grisOscuro : #666;
-       --grisClaro : #ebebeb;
-       --Verde : #39b54a;
-  
-  
-  }
-  
-  *{
-    margin: 0px;
-    font-family: var(--roboto);
+header{
+  background-color: var(--amarillo);
   }

@@ -1,8 +1,5 @@
-.header-home {
-  background-color: var(--amarillo);
-  }
 
-.main-home ,.footer-home {
+main  {
   background-color: var(--grisClaro);
 
 }

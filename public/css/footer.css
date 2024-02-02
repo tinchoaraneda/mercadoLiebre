@@ -9,12 +9,13 @@
   font-weight: lighter;
 }
 
-.footer-home section i {
+footer {
   margin-top: 10px;
   margin-bottom: 10px;
   height: 2em;
   width: 2em;
   color: var(--celeste);
+  background-color:var(--blanco);
 }
 
 .footer-home section p {
